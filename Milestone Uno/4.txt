@@ -1,0 +1,5 @@
+My thoughts on socket thing support in Java:
+
+Java Socket programming is used for communication between the applications running on different JRE. Though its very helpull its quite 
+difficult too. Its much richer than what I thought. I started learning it with the help of stackoverflow, tutorials point and online 
+courses. I think I can be very good at socket programming within few weeks by proper practicing. 
