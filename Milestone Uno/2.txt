@@ -1,0 +1,15 @@
+My go through plan for this project:
+  A. Selecting the protocol
+  B. Selecting the IDE
+  C. Write a simple GUI for Demo Application
+  D. Write down the Demo Application
+  E. Test the Demo Application
+  F. Make necessary changes on the Application
+  G. Collect some user experience on a chat application
+  H. Make the GUI with the help of gathered UX
+  I. Write code for the Application
+  J. Test the application
+  
+  
+  
+That's all
