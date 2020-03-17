@@ -1,0 +1,6 @@
+For this project I am going to use Transport Control Protocol(TCP) protocol. An application provides TCP with a sequence of bytes, and TCP 
+guarantees that it will deliver them to the remote computer accurately and in order, if they get there at all. TCP provides 
+this not "to a computer" but "between applications" -- meaning TCP has another level of addressing that keeps track of which 
+application the stream belongs to (i.e. a port number). 
+TCP is good for file transfer, email, web page requests on the other hand UDP is good for audio / video streaming.
+Thats why I am going to use TCP protocol in this project.
