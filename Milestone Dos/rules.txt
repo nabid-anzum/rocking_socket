@@ -1,0 +1,17 @@
+(These rules are for this demo application. Rules can be changed later.)
+  1. I made a simple GUI for this demo application.
+  2. This application will work like a group conversation in messanger.
+  3. Application will start when server is ON.
+  4. WHen a user will send a message every connected users can see the message.
+  5. Only 5 users can join simultenously.
+  6. When the sixth user will request access he will be sent to waiting list.
+  7. In waiting list sixth user can observe the servers status but cannot participate in conversation.
+  8. The later requests will be accepted if the thread becomes free.
+  9. Any user can disconnect from the server anytime.
+  10. This is when the thread will be free.
+  11. Users can see how many users are there in online(connected).
+  
+  
+  
+  
+Thats all for now
