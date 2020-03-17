@@ -10,4 +10,4 @@ scalable enough?
 
 
 
-All the answers are given in the orderd folders.
+All the answers are given in the orderd files.
