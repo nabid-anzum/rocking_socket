@@ -7,4 +7,4 @@ List of milestones in Milestone Dos is:
   5. Find out how many clients does the server can serve up to.
   
   
-Demo Project is in the folder Chat_Server. Rules are in rules.txt
+the source code and UI is in the folder 'src'. Rules are in rules.txt
