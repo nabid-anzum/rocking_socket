@@ -1,4 +1,4 @@
 I first collect some user experience. Basically it comes from my friends. I make a simple survey on their choices about the app. The I 
 designed a simple GUI using drag and drop aoption of NetBeans. I made it super simple. There two page only server and client. When server 
-is started app is ON. client can request for connection. If space is available then server will connect a client. thei messages will appear
+is started app is ON. client can request for connection. If space is available then server will connect a client. the messages will appear
 on the big text form. Below that there is a option for sending messages. Thats my GUI for this app.
