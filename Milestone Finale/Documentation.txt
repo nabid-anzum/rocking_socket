@@ -1,0 +1,6 @@
+What to istall:
+  any Java IDE.
+
+How to run:
+  1. The executable file is given avobe.
+  2. Run the executable files
