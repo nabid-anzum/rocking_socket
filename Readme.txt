@@ -1,16 +1,15 @@
-rocking_socket
-
-rocking_socket.pdf is the problem statement.
-the project is inside the Chat_Server folder.
-The project is written in JAVA.
-The IDE I am going to use is NetBeans.
-I will try to do the project by completing the milestones given in the problem statement step by step.
-I will update the project each day and will write sufficient amount of comments.
-
-
-
+How to run:
+  1. open the src file given in the Milestone Dos Client.java and Server .java with any JAVA IDE.
+  2. start the server first by clicking the start button.
+  3. put username in the client UI and click connect.
+  4. open another client and repeat step 3.
+  5. now you can send and recieve message.
+  6. I give 2 space in the thread. 
+  7. if third client asks for access he will be sent to waiting room, if any of the previous tow clients disconnects them, then third           cliet can join the server.
+  8. enjoy chatting.
 
 
 
 
-Lets start the code
+
+
