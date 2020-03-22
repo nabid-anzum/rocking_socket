@@ -2,7 +2,7 @@ What to istall:
   any Java IDE.
 
 How to run:
-  1. open the src file give in Milestone Dos Client.java and Server .java with any JAVA IDE.
+  1. open the src file given in the Milestone Dos Client.java and Server .java with any JAVA IDE.
   2. start the server first by clicking the start button.
   3. put username in the client UI and click connect.
   4. open another client and repeat step 3.
